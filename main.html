@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="challenge1App">
+<head>
+    <meta charset="UTF-8">
+    <title>Challenge1-oddArray</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel = "stylesheet" />
+    <script src="controller/myCtrl.js"></script>
+</head>
+
+<body class="text-center">
+    <div ng-controller="myController" >
+        <h1 >Challenge 1</h1>
+        <h2 class="text-info"> Print Odd Array </h2>
+        <br><button class="btn btn-default" ng-click="result = toOddArray(myarray)"  >Click here</button>
+        <h3>
+            {{result}}
+        </h3>
+    </div>
+</body>
+</html>
