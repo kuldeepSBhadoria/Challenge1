@@ -1,3 +1,5 @@
+
+         **This is a Angular JS Project**
    ****  IDE used WebStrom for this Project ***
 
    The target of this programme is to make a function that takes an Array as argument
