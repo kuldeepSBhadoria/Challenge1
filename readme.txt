@@ -4,8 +4,5 @@
    I think about recursive function where function calls itself till some conditions.
    then I got idea that timeout function which can call a function.
    So implemented logic using $timeout that is inbuilt function of Angular . by passing 0 means
-<<<<<<< HEAD
    calling this function with no delay.and finally I created a function calling itself.
-=======
-   calling this function with no delay.and finally I created a function calling itself.
->>>>>>> 55bdfc731f5e9900b3b94827d3750341294f973f
+
